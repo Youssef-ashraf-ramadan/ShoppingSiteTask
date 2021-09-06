@@ -2,7 +2,7 @@
 A responsive landing page for shopping site.
 
 # live-demo 👩‍💻  
-live demo for the website can be seen here : [live demo]
+live demo for the website can be seen here : [live demo] https://youssef-ashraf-ramadan.github.io/ShoppingSiteTask/
 
 # Tasks 📝
 - [x] basic landing page
